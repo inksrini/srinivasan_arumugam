@@ -1,2 +1,2 @@
 # srinivasan_arumugam
-resume 
+simple resume created by me using html and css (no heavy libraries)
